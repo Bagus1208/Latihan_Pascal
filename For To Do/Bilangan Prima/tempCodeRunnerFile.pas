@@ -1,0 +1,1 @@
+writeln('Ini hasil i : ', i, ' Kondisi pertama')
